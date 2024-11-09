@@ -8,4 +8,4 @@ I studied at Tyumen State University and worked as a technical support specialis
 
 * 🌍  I'm based in Perm, Russia
 * ✉️  You can contact me at [descendedlaw@gmail.com](mailto:descendedlaw@gmail.com)
-* 🧠  I'm learning Python, Data science, Machine learning
+* 🧠  I'm learning Python, Data science and Machine learning
